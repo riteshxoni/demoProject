@@ -1,0 +1,16 @@
+.orange-1
+{
+    background-color: #fa4214;
+}
+.orange-1:hover
+{
+    background-color: #fa4214;
+}
+.my-input
+{
+    border: none;
+}
+.my-input:focus
+{
+    box-shadow: none;
+}
